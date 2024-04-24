@@ -1,4 +1,4 @@
-![image](https://github.com/amruthavarshini-gopal/Correlation_Regression/assets/145742940/eebfdb7c-921b-440d-b3c6-e563276fc896)# Correlation and regression for data analysis
+# Correlation and regression for data analysis
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
@@ -58,4 +58,4 @@ plt.legend(['Regression Line','Data points'])
 # Output :
 ![Screenshot 2024-04-24 085419](https://github.com/amruthavarshini-gopal/Correlation_Regression/assets/145742940/a7655bbc-82ea-4fee-9501-d986f391148e)
 # Result :
-
+The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
